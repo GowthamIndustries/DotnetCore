@@ -3,4 +3,4 @@ function GetConsole() {
     console.log("Logggged");
 }
 
-GetConsole();
+GetConsole();//edited from github
